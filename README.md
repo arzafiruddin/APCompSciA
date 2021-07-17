@@ -9,10 +9,10 @@ This repository contains all the programs I created during my AP Computer Scienc
 - Recursion
 - Inheritance
 
-> NOTE: All the programs and scripts in this repository were intended for learning Java and associated programming concepts, not for presentation.
+> NOTE: All the programs and scripts in this repository were intended for learning Java and associated programming concepts, not for presentation or finalization.
 
 ## Repository Directory
-### Calculators & Tools
+### SECTION I: Calculators & Tools
 Programs aimed at ouputting a calculated value, product, or conclusion based on given inputs.
 |Name                    |Description                                                                               |
 |------------------------|------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ Programs aimed at ouputting a calculated value, product, or conclusion based on 
 |VehicleTaxCalculator    |Calculates taxes associated with vehicles owned based on their characteristics            |
 |WordPair                |Prints all possible pairs of words of a multiple-word phrase                              |
 
-### Games
+### SECTION II: Games
 Programs that are games or generally game-like.
 |Name       |Description                                                   |
 |-----------|--------------------------------------------------------------|
@@ -43,7 +43,7 @@ Programs that are games or generally game-like.
 |Magpie     |Simulates conversation with automatically generated responses |
 |TokenPass  |A variation on Mancala with tokens and predetermined rules    |
 
-### Tests & Demos
+### SECTION III: Tests & Demos
 Programs and scripts aimed are roughly testing or demonstrating various Java functions and programming concepts (NOTE: some scripts may be partially incomplete).
 |Name                |Description                                                                 |
 |--------------------|----------------------------------------------------------------------------|
